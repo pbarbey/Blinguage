@@ -33,5 +33,9 @@ h1{
 }
 
 .espacementTopElements{
-    margin-top:15%;
+    margin-top:12%;
+}
+
+.espacementTopElements img{
+    margin-bottom: 5%;
 }
