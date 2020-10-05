@@ -1,0 +1,37 @@
+body{
+    display: flex;
+    background-image: url("/Images/bg.jpg");
+    background-size: 50%;
+    background-repeat: no-repeat;
+    background-position: right top;
+    height: 100%;
+}
+a{
+    color: black;
+}
+a:hover{
+    color: #f8babb;
+}
+a.nav-link{
+    font-weight: bold;
+}
+ul{
+    margin-right: 40px;
+}
+.btnMauve{
+    background-color: #342a80;
+}
+
+h1{
+    font-size: 5rem;
+    font-weight: bold;
+    color:black;
+}
+.containerMargin{
+    margin-left: 8%;
+    margin-right:8%;
+}
+
+.espacementTopElements{
+    margin-top:15%;
+}
